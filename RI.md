@@ -1,4 +1,4 @@
-## JUMP Mines ParisTech - Réglement Intérieur
+## JUMP Mines Paris - Réglement Intérieur
 
 ### ARTICLE 1 : COMPOSITION
 
@@ -6,7 +6,7 @@ Conformément à l’article 4 de ses statuts, les membres de l’association pe
 
 Les membres actifs, parmi lesquels sont élus conformément aux Statuts :
 
--	Les membres du Bureau, chargés du suivi de la qualité de l’activité de l’Association, et du respect de ses engagements vis-à-vis de ses clients, de la CNJE, des étudiants, de MINES ParisTech et de ses partenaires ; le bureau est constitué au minimum du Président, du Secrétaire Général, du Trésorier et du Vice-Président.
+-	Les membres du Bureau, chargés du suivi de la qualité de l’activité de l’Association, et du respect de ses engagements vis-à-vis de ses clients, de la CNJE, des étudiants, de MINES Paris et de ses partenaires ; le bureau est constitué au minimum du Président, du Secrétaire Général, du Trésorier et du Vice-Président.
 -	Les membres du Conseil d’Administration, chargés de l’administration et de la gestion de l’Association, et des projets de développement liés à l’activité de l’Association. Il est composé du Bureau et des personnes suivantes : le Vice-Trésorier, le Responsable du pôle Développement Commercial, le Responsable du pôle Études, le Responsable des Systèmes d’Informations, le Responsable Communication ainsi que les membres de ces pôles.
 
 Les membres intervenants, chargés de la réalisation des études confiées à l’Association.
@@ -15,7 +15,7 @@ Les membres du Comité d’Orientation Stratégique (COS), élus par le conseil 
 
 Les membres honoraires, anciens membres du Bureau ou du Conseil d’Administration.
 
-La qualité de membre implique, outre la qualité d’étudiant majeur à MINES ParisTech, l’adhésion aux statuts et l’obligation de participation personnelle à l’activité de l’Association. La qualité de membre s’acquiert jusqu’à la perte de qualité de membre définie par l’article 5 des statuts.
+La qualité de membre implique, outre la qualité d’étudiant majeur à MINES Paris, l’adhésion aux statuts et l’obligation de participation personnelle à l’activité de l’Association. La qualité de membre s’acquiert jusqu’à la perte de qualité de membre définie par l’article 5 des statuts.
 
 La qualité de membre donne droit au titre d'intervenant ; ainsi, tout membre peut réaliser une étude dans le cadre de l'activité de l'association. Néanmoins, le volume d'étude réalisé par le conseil d'administration et le bureau est soumis à la réglementation concernant le taux d'ouverture, fixée par la CNJE. 
 
@@ -161,7 +161,7 @@ Il est également en charge de la gestion des anciens de la structure.
 
 Le Trésorier est chargé de tout ce qui concerne la gestion du patrimoine de l’Association. Il tient une comptabilité régulière, au jour le jour, de toutes les opérations, et rend compte à l’Assemblée générale qui statut sur la gestion. Il est responsable de la bonne tenue de la comptabilité.
 
-Toute dépense au sein de l’association donne lieu à une autorisation préalable du Trésorier.
+Toute dépense au sein de l’association requiert une autorisation préalable du Trésorier.
 
 Il est assisté dans sa tâche par un Vice-Trésorier, à qui il délègue une partie de ses fonctions dont notamment la bonne tenue de la comptabilité.
 
